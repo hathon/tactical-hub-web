@@ -11201,3 +11201,7 @@ body {
 .footer {
   padding: 5rem 0;
 }
+.greyscale {
+  filter: brightness(140%);
+  filter: grayscale(100%);
+}
